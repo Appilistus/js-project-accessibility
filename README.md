@@ -1,5 +1,4 @@
 Deployed project: 
-https://group-5-js-project-accessibility.netlify.app/
 
 # Web Accessibility Project
 
